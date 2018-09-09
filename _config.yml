@@ -28,6 +28,9 @@ navigation:
   - name: Linkedin
     url: 'https://www.linkedin.com/in/jagnoor/'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/JAGpictures'
+    type: external
 title: collabrency
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
