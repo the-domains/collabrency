@@ -31,6 +31,9 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/JAGpictures'
     type: external
+  - name: Github
+    url: 'https://github.com/jagnoor'
+    type: external
 title: collabrency
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
