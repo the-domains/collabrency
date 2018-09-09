@@ -1,0 +1,25 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: collabrency
+layout_spectrum: 0.42934363428503275
+typography_spectrum: 0.07762894127517939
+color:
+  brandStrength: 0.6330565337557346
+  lightness: 0.7574669444002211
+  saturation: 0.20586121082305908
+  rhythmicContrast: 0.7979100390803069
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+content: []
+title: collabrency
+description: A cross between transparency & collaboration
+github: true
