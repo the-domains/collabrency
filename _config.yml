@@ -1,16 +1,16 @@
-layout_spectrum: 0.8139630504140613
-typography_spectrum: 0.7831497850276457
+layout_spectrum: 0.2377447589846457
+typography_spectrum: 0.3436100875909007
 color:
-  brandStrength: 0.7200963657010937
-  lightness: 0.6683200921613428
-  saturation: 0.17874824759015576
-  rhythmicContrast: 0.05462880007240294
+  brandStrength: 0.9835788712257723
+  lightness: 0.4852386111266321
+  saturation: 0.8065763033142701
+  rhythmicContrast: 0.7453667392637028
   brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
 github: true
 author:
   name: Jagnoor Singh
