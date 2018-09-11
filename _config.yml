@@ -16,7 +16,7 @@ author:
   name: Jagnoor Singh
   email: jagnoor@gmail.com
   url: 'https://www.jagnoor.us'
-name: collabrency - A cross between transparency & collaboration
+name: collabrency
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -61,3 +61,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: A cross between transparency & collaboration
+purpose:
+  - type: external
+    url: 'https://twitter.com/JAGpictures/status/1038635902803828736'
+    label: '#collabrency retweet it ..'
