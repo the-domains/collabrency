@@ -77,7 +77,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -88,5 +87,5 @@ content:
 description: A cross between transparency & collaboration
 purpose:
   - type: external
-    url: 'https://twitter.com/JAGpictures/status/1038635902803828736'
-    label: '#collabrency retweet it ..'
+    url: 'https://twitter.com/JAGpictures/status/1039596439888912384'
+    label: 'Share your love for #collabrency'
