@@ -1,8 +1,13 @@
 ---
 inFeed: true
-description: "Last year\_we decided to add a new word to our lexicon, “collabrency” - A cross between collaboration and transparency. The need for a word that best describes how we should act and\_think about work was unmistakable. However I am not alone, English speakers are adding new ones at the rate of around 1,000 a year."
-dateModified: '2018-09-11T19:26:24.267Z'
-datePublished: '2018-09-11T19:26:25.081Z'
+description: >-
+  Last year we decided to add a new word to our lexicon, “collabrency” - A cross
+  between collaboration and transparency. The need for a word that best
+  describes how we should act and think about work was unmistakable. However I
+  am not alone, English speakers are adding new ones at the rate of around 1,000
+  a year.
+dateModified: '2018-09-11T23:21:34.069Z'
+datePublished: '2018-09-11T23:21:35.031Z'
 title: Adding new words to the English language
 author: []
 publisher: {}
@@ -19,7 +24,7 @@ _type: Blurb
 
 Last year we decided to add a new word to our lexicon, "**collabrency**" - A cross between collaboration and transparency. The need for a word that best describes how we should act and think about work was unmistakable. However I am not alone, English speakers are adding new ones at the rate of around 1,000 a year.
 
-People invent new words all the time, but which ones actually make it into the dictionary? When lexicographers decide what words to add to dictionaries, they try to imagine what words people actually want to look up. There are two important factors to keep in mind here: 
+People invent new words all the time, but which ones actually make it into the dictionary? When lexicographers decide what words to add to dictionaries, they try to imagine what words people actually want to look up. There are two important factors to keep in mind here:
 
 1) Is the word in widespread usage?
 
@@ -156,6 +161,6 @@ Compounding with a twist. Take one word, remove an arbitrary portion of it, then
 
 Jag
 
-[0]: https://twitter.com/hashtag/collabrency?src=hash&ref_src=twsrc%5Etfw
+[0]: https://twitter.com/JAGpictures/status/1039596439888912384
 [1]: https://www.dictionary.com/e/getting-words-into-dictionaries/
 [2]: http://www.gsbe.co.uk/grammar-capitals.html
