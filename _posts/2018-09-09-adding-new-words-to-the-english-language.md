@@ -2,9 +2,10 @@
 inFeed: true
 description: >-
   Last year I decided to add a new word to our lexicon, “collabrency” - A cross
-  between collaboration and transparency.
-dateModified: '2018-09-09T05:16:27.660Z'
-datePublished: '2018-09-09T05:16:28.383Z'
+  between collaboration and transparency. I am not alone, English speakers are
+  adding new ones at the rate of around 1,000 a year.
+dateModified: '2018-09-11T18:47:24.331Z'
+datePublished: '2018-09-11T18:47:25.178Z'
 title: Adding new words to the English language
 author: []
 publisher: {}
@@ -19,82 +20,45 @@ _type: Blurb
 [Tweet your love for collabrency][0]
 ![Jagnoor's article about adding new words to the english dictionary](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4917be55-c808-47a1-90d6-cab271718f8f.jpg)
 
-Last year I decided to add a new word to our lexicon, "**collabrency**" - A cross between collaboration and transparency.
+Last year I decided to add a new word to our lexicon, "**collabrency**" - A cross between collaboration and transparency. I am not alone, English speakers are adding new ones at the rate of around 1,000 a year.
 
-I am not alone, English speakers are adding new ones at the rate of around 1,000 a year.
-
-Here are some recent additions, I am hoping collabrency will join their rank soon..
-
-Here are some more recent additions with their official definitions. I am hoping **collabrency** will join their rank soon..
+Here are some recent additions (not all of them are as impressive as collabrency)to the english language with their official definitions. I am hoping **collabrency** will join their ranks soon..
 
 **1\. Bling (n):** Expensive, ostentatious clothing and jewelry.  
-  
 **2\. Bromance (n):** A close but non-sexual relationship between two men.  
-  
 **3\. Chillax (v):** Calm down and relax.  
-  
 **4\. Crunk (adj):** Very excited or full of energy.  
-  
 **5\. D'oh (ex):** Exclamation used to comment on a foolish or stupid action, especially one's own.
 
 **6\. Droolworthy (adj):** Extremely attractive or desirable.  
-  
 **7\. Frankenfood (n):** Genetically modified food.  
-  
 **8\. Grrrl (n):** A young woman regarded as independent and strong or aggressive, especially in her attitude to men or in her sexuality (A blend of "Grrrr" and "Girl.")  
-  
 **9\. Guyliner (n): **Eyeliner that is worn by men.  
-  
 **10\. Hater (n):** A person who greatly dislikes a specified person or thing.  
-  
 **11\. Illiterati (n):** People who are not well educated or well informed about a particular subject or sphere of activity.  
-  
 **12\. Infomania (n):** The compulsive desire to check or accumulate news and information, typically via mobile phone or computer.  
-  
 **13\. Jeggings (n):** Tight-fitting stretch trousers for women, styled to resemble a pair of denim jeans.  
-  
 **14\. La-la Land (n):** A fanciful state or dream world. Also, Los Angeles.  
-  
 **15\. Locavore (n):** A person whose diet consists only or principally of locally grown or produced food.  
-  
 **16\. Mankini (n):** A brief one-piece bathing garment for men, with a T-back.  
-  
 **17\. Mini-Me (n):** A person closely resembling a smaller or younger version of another.  
-  
 **18\. Muffin Top (n):** A roll of fat visible above the top of a pair of women's tight-fitting low-waisted trousers.  
-  
 **19\. Muggle (n):** A person who is not conversant with a particular activity or skill.  
-  
 **20\. Noob (n):** A person who is inexperienced in a particular sphere or activity, especially computing or the use of the Internet.  
-  
 **21\. Obvs (adv):** Obviously.  
-  
 **22\. OMG (ex):** Used to express surprise, excitement, or disbelief. (Dates back to 1917.)  
-  
 **23\. Po-po (n):** The police.  
-  
 **24\. Purple State (n):** A US state where the Democratic and Republican parties have similar levels of support among voters.  
-  
 **25\. Screenager (n):** A person in their teens or twenties who has an aptitude for computers and the Internet.  
-  
 **26\. Sexting (n):** The sending of sexually explicit photographs or messages via mobile phone.  
-  
 **27\. Textspeak (n):** Language regarded as characteristic of text messages, consisting of abbreviations, acronyms, initials, emoticons. (wut hpns win u write lyk dis.)  
-  
 **28\. Totes (adv):** Totally.  
-  
 **29\. Truthiness (n):** the quality of seeming or being felt to be true, even if not necessarily true.  
-  
 **30\. Twitterati (n):** Keen or frequent users of the social networking site Twitter.  
-  
 **31\. Unfriend (v):** Remove (someone) from a list of friends or contacts on a social networking site.  
-  
 **32\. Upcycle (v):** Reuse (discarded objects or material) in such a way as to create a product of higher quality or value than the original.  
-  
 **33\. Whatevs (ex, adv):** Whatever.  
-  
 **34\. Whovian (n):** A fan of the British science-fiction television series Doctor Who.  
-  
 **35\. Woot (ex):** (Especially in electronic communication) Used to express elation, enthusiasm, or triumph.
 
 Luckily we have a full understanding of the how to add words the dictionary, All new words are created by one of following mechanisms:
