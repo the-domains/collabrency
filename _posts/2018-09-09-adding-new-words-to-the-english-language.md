@@ -1,13 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Last year we decided to add a new word to our lexicon, “collabrency” - A cross
-  between collaboration and transparency. The need for a word that best
-  describes how we should act and think about work was unmistakable. However I
-  am not alone, English speakers are adding new ones at the rate of around 1,000
-  a year.
-dateModified: '2018-09-11T19:23:05.767Z'
-datePublished: '2018-09-11T19:23:06.949Z'
+description: "Last year\_we decided to add a new word to our lexicon, “collabrency” - A cross between collaboration and transparency. The need for a word that best describes how we should act and\_think about work was unmistakable. However I am not alone, English speakers are adding new ones at the rate of around 1,000 a year."
+dateModified: '2018-09-11T19:26:24.267Z'
+datePublished: '2018-09-11T19:26:25.081Z'
 title: Adding new words to the English language
 author: []
 publisher: {}
@@ -101,6 +96,7 @@ Here are some more recent additions with their official definitions. I am hoping
 **34\. Whovian (n):** A fan of the British science-fiction television series Doctor Who.
 
 **35\. Woot (ex):** (Especially in electronic communication) Used to express elation, enthusiasm, or triumph.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea1a4777-53a6-48a8-a599-42ee002ef235.jpg)
 
 ## Luckily we have a good understanding of the how we words get created and eventually added to the dictionary, All new words are created by one of following mechanisms:
 
