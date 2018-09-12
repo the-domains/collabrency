@@ -85,7 +85,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: A cross between transparency & collaboration
-purpose:
-  - type: external
-    url: 'https://twitter.com/JAGpictures/status/1039596439888912384'
-    label: 'Share your love for #collabrency'
+purpose: []
