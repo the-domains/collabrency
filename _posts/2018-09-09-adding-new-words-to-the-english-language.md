@@ -6,8 +6,8 @@ description: >-
   describes how we should act and think about work was unmistakable. However I
   am not alone, English speakers are adding new ones at the rate of around 1,000
   a year.
-dateModified: '2018-09-12T17:59:23.645Z'
-datePublished: '2018-09-12T17:59:24.400Z'
+dateModified: '2018-09-12T17:59:33.415Z'
+datePublished: '2018-09-12T17:59:34.247Z'
 title: Adding new words to the English language
 author: []
 publisher: {}
@@ -133,7 +133,7 @@ Here are some more recent additions with their official definitions. I am hoping
 
 **13 Portmanteaus **Compounding with a twist. Take one word, remove an arbitrary portion of it, then put in its place either a whole word, or a similarly clipped one. Thus were born sitcom, paratroops, internet, gazunder and sexting. (Note: some linguists call this process blending and reserve the term portmanteau for a particular subtype of blend. But since Lewis Carroll, who devised this sense of portmanteau, specifically defined it as having the broader meaning, I'm going to use the terms willy-nilly.)
 
-<article style=""><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/gcrc/dms/image/C4D12AQEDnkvwq-F2vg/article-cover_image-shrink_720_1280/0?e=1542240000&amp;v=beta&amp;t=FZ-_SaINC4IinmOQ4JnfTt6_xXR0uKmo7cNgiKwFYRc" /><h1>Collabrency &amp; adding new words to the English language</h1><p>Last year we decided to add a new word to our lexicon, "collabrency" - A cross between collaboration and transparency. The need for a word that best</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8a3762d242a01f98da5c04fbf046bbd6/noop?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fshrinknp_400_400%2Fgcrc%2Fdms%2Fimage%2FC4D12AQEDnkvwq-F2vg%2Farticle-cover_image-shrink_720_1280%2F0%3Fe%3D1542240000%26v%3Dbeta%26t%3DFZ-_SaINC4IinmOQ4JnfTt6_xXR0uKmo7cNgiKwFYRc" /><h1>Collabrency &amp; adding new words to the English language</h1><p>Last year we decided to add a new word to our lexicon, "collabrency" - A cross between collaboration and transparency. The need for a word that best</p></article>
 
 Jagnoor
 
