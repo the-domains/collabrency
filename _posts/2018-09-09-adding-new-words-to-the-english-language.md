@@ -6,8 +6,8 @@ description: >-
   describes how we should act and think about work was unmistakable. However I
   am not alone, English speakers are adding new ones at the rate of around 1,000
   a year.
-dateModified: '2018-09-12T17:56:13.990Z'
-datePublished: '2018-09-12T17:56:15.047Z'
+dateModified: '2018-09-12T17:59:23.645Z'
+datePublished: '2018-09-12T17:59:24.400Z'
 title: Adding new words to the English language
 author: []
 publisher: {}
@@ -132,6 +132,8 @@ Here are some more recent additions with their official definitions. I am hoping
 **12 Error **Misspellings, mishearing, mispronunciations and mis transcriptions rarely produce new words in their own right, but often lead to new forms in conjunction with other mechanisms. Scramble, for example, seems to have originated as a variant of scrabble; but over time, the two forms have taken on different meanings, so one word has now become two. Similarly, the words _shit_ and _science_, thanks to a long sequence of shifts and errors, are both ultimately derived from the same root. And the now defunct word helpmeet, or helpmate, is the result of a Biblical boo-boo. In the King James version, the Latin _adjutorium simile sibi_ was rendered as "an help meet for him" -- that is, "a helper suitable for him". Later editors, less familiar with the archaic sense of meet, took the phrase to be a word, and began hyphenating help-meet.
 
 **13 Portmanteaus **Compounding with a twist. Take one word, remove an arbitrary portion of it, then put in its place either a whole word, or a similarly clipped one. Thus were born sitcom, paratroops, internet, gazunder and sexting. (Note: some linguists call this process blending and reserve the term portmanteau for a particular subtype of blend. But since Lewis Carroll, who devised this sense of portmanteau, specifically defined it as having the broader meaning, I'm going to use the terms willy-nilly.)
+
+<article style=""><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/gcrc/dms/image/C4D12AQEDnkvwq-F2vg/article-cover_image-shrink_720_1280/0?e=1542240000&amp;v=beta&amp;t=FZ-_SaINC4IinmOQ4JnfTt6_xXR0uKmo7cNgiKwFYRc" /><h1>Collabrency &amp; adding new words to the English language</h1><p>Last year we decided to add a new word to our lexicon, "collabrency" - A cross between collaboration and transparency. The need for a word that best</p></article>
 
 Jagnoor
 
