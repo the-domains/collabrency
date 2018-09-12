@@ -6,16 +6,18 @@ description: >-
   describes how we should act and think about work was unmistakable. However I
   am not alone, English speakers are adding new ones at the rate of around 1,000
   a year.
-dateModified: '2018-09-12T18:00:49.691Z'
-datePublished: '2018-09-12T18:00:50.897Z'
+dateModified: '2018-09-12T18:02:30.398Z'
+datePublished: '2018-09-12T18:02:32.810Z'
 title: Adding new words to the English language
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-09-09-adding-new-words-to-the-english-language.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-09T04:51:58.809Z'
-_type: Blurb
+url: adding-new-words-to-the-english-language/index.html
+_type: Article
 
 ---
 # Adding new words to the English language
