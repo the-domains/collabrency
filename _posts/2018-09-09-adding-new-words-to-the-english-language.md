@@ -6,8 +6,8 @@ description: >-
   describes how we should act and think about work was unmistakable. However I
   am not alone, English speakers are adding new ones at the rate of around 1,000
   a year.
-dateModified: '2018-09-11T23:23:22.470Z'
-datePublished: '2018-09-11T23:23:22.994Z'
+dateModified: '2018-09-12T17:56:13.990Z'
+datePublished: '2018-09-12T17:56:15.047Z'
 title: Adding new words to the English language
 author: []
 publisher: {}
@@ -105,7 +105,7 @@ Here are some more recent additions with their official definitions. I am hoping
 
 ## Luckily we have a good understanding of the how we words get created and eventually added to the dictionary, All new words are created by one of following mechanisms:
 
-[https://www.dictionary.com/e/getting-words-into-dictionaries/][1] (This link has more detailed information on how to add a word eventually gets added to the dictionary)
+[https://www.dictionary.com/e/getting-words-into-dictionaries/][1] (This link has detailed information on how a word eventually gets added to the dictionary)
 
 **1 Derivation **The commonest method of creating a new word is to add a prefix or suffix to an existing one. Hence realization (1610s), democratise (1798), detonator (1822), preteen (1926), hyperlink (1987) and monogamish (2011).
 
