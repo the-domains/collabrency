@@ -6,8 +6,8 @@ description: >-
   describes how we should act and think about work was unmistakable. However I
   am not alone, English speakers are adding new ones at the rate of around 1,000
   a year.
-dateModified: '2018-09-12T18:02:33.353Z'
-datePublished: '2018-09-12T18:02:34.712Z'
+dateModified: '2018-09-12T18:03:47.865Z'
+datePublished: '2018-09-12T18:03:49.128Z'
 title: Adding new words to the English language
 author: []
 publisher: {}
