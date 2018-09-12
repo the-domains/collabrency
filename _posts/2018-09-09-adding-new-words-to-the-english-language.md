@@ -6,8 +6,8 @@ description: >-
   describes how we should act and think about work was unmistakable. However I
   am not alone, English speakers are adding new ones at the rate of around 1,000
   a year.
-dateModified: '2018-09-12T18:46:22.827Z'
-datePublished: '2018-09-12T18:46:23.625Z'
+dateModified: '2018-09-12T18:46:46.829Z'
+datePublished: '2018-09-12T18:46:47.753Z'
 title: Adding new words to the English language
 author:
   - name: Jagnoor Singh
@@ -28,9 +28,10 @@ _type: Article
 
 ---
 # Adding new words to the English language
-[Tweet your love for collabrency][0]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/434d21d5829729be1b9f91a7405150a7ae5f9402" /><h1>Collabrency &amp; adding new words to the English language</h1><p>Last year we decided to add a new word to our lexicon, "collabrency" - A cross between collaboration and transparency. The need for a word that best</p></article>
+
+[Tweet your love for collabrency][0]
 
 Last year we decided to add a new word to our lexicon, "**collabrency**" - A cross between collaboration and transparency. The need for a word that best describes how we should act and think about work was unmistakable. However I am not alone, English speakers are adding new ones at the rate of around 1,000 a year.
 
