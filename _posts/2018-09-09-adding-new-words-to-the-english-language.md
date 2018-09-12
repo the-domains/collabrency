@@ -6,11 +6,18 @@ description: >-
   describes how we should act and think about work was unmistakable. However I
   am not alone, English speakers are adding new ones at the rate of around 1,000
   a year.
-dateModified: '2018-09-12T18:03:47.865Z'
-datePublished: '2018-09-12T18:03:49.128Z'
+dateModified: '2018-09-12T18:46:13.388Z'
+datePublished: '2018-09-12T18:46:15.468Z'
 title: Adding new words to the English language
-author: []
-publisher: {}
+author:
+  - name: Jagnoor Singh
+    url: 'https://www.linkedin.com/in/jagnoor'
+    avatar: {}
+publisher:
+  url: 'https://www.linkedin.com'
+  name: Linkedin
+  favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
+  domain: www.linkedin.com
 via: {}
 sourcePath: _posts/2018-09-09-adding-new-words-to-the-english-language.md
 hasPage: true
@@ -22,7 +29,8 @@ _type: Article
 ---
 # Adding new words to the English language
 [Tweet your love for collabrency][0]
-![Jagnoor's article about adding new words to the english dictionary](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4917be55-c808-47a1-90d6-cab271718f8f.jpg)
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8a3762d242a01f98da5c04fbf046bbd6/noop?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fshrinknp_400_400%2Fgcrc%2Fdms%2Fimage%2FC4D12AQEDnkvwq-F2vg%2Farticle-cover_image-shrink_720_1280%2F0%3Fe%3D1542240000%26v%3Dbeta%26t%3DFZ-_SaINC4IinmOQ4JnfTt6_xXR0uKmo7cNgiKwFYRc" /><h1>Collabrency &amp; adding new words to the English language</h1><p>Last year we decided to add a new word to our lexicon, "collabrency" - A cross between collaboration and transparency. The need for a word that best</p></article>
 
 Last year we decided to add a new word to our lexicon, "**collabrency**" - A cross between collaboration and transparency. The need for a word that best describes how we should act and think about work was unmistakable. However I am not alone, English speakers are adding new ones at the rate of around 1,000 a year.
 
